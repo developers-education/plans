@@ -15,5 +15,5 @@
 3. [Шаг 3. Удаление и редактирование задач](/projects/todo-list/steps/step-3.md)
 4. [Шаг 4. Фильтры и локальное хранение](/projects/todo-list/steps/step-4.md)
 ## Изучение
-* [Материал](learn.md)
-* [Контрольные вопросы](questions.md)
+* [Материал](sections/frontend-base/learn.md)
+* [Контрольные вопросы](sections/frontend-base/questions.md)
