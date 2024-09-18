@@ -7,6 +7,7 @@
 - Таймеры
 - Event Loop
 - Обработка ошибок
+- Валидация данных
 - eslint, prettier
 - lighthouse
 ## Проект
