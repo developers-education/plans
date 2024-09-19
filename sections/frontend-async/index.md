@@ -8,8 +8,11 @@
 - Event Loop
 - Обработка ошибок
 - Валидация данных
+- Модули (import/export)
 - eslint, prettier
 - lighthouse
+- vite
+- npm
 ## Проект
 
 
