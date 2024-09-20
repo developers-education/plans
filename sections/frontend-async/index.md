@@ -1,18 +1,18 @@
 ## Темы
+- vite
+- npm
 - SCSS
+- eslint, prettier
 - fetch
 - HTTP (методы, статусы, заголовки)
 - Авторизация
 - Promise
 - Таймеры
-- Event Loop
+- Event Loop (Цикл событий)
 - Обработка ошибок
 - Валидация данных
 - Модули (import/export)
-- eslint, prettier
 - lighthouse
-- vite
-- npm
 ## Проект
 [Техническое задание "Customers Panel"](/projects/frontend/customers-panel/index.md)
 
