@@ -1,10 +1,10 @@
 ## Темы
-- vite
-- npm
+- vite (базовое понимание)
+- nodejs, npm (базовое понимание)
 - SCSS
 - eslint, prettier
 - fetch
-- HTTP (методы, статусы, заголовки)
+- HTTP (методы, статусы, заголовки, RestAPI)
 - Авторизация
 - Promise
 - Таймеры
