@@ -25,5 +25,5 @@
 6. [Шаг 6. Уведомления](/projects/frontend/customers-panel/steps/step-6.md)
 7. [Шаг 7. Проверка качества](/projects/frontend/customers-panel/steps/step-7.md)
 ## Изучение
-* [Материал](sections/frontend-async/learn.md)
-* [Контрольные вопросы](sections/frontend-async/questions.md)
+* [Материал](/sections/frontend-async/learn.md)
+* [Контрольные вопросы](/sections/frontend-async/questions.md)
